@@ -67,6 +67,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - Chrome extension to generate Laravel integration tests while using your app.
 * [Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator) - Automatically generate your API documentation from your existing Laravel routes.
 * [Laravel Packager](https://github.com/Jeroen-G/Laravel-Packager) - A CLI tool for creating Laravel packages
+* [rapyd-laravel] (https://github.com/zofe/rapyd-laravel) - This is a pool of presentation and editing widgets (Grids and Forms) for laravel.
 
 ##### Debugging & Profiling
 * [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
@@ -387,6 +388,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Starter Projects
 
 * [LaraAdmin](http://laraadmin.com/)
+* [Laravel Panel] (http://laravelpanel.com/)
 * [Laracogs](https://github.com/yabhq/laracogs)
 * [Laravel 5.2 Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
 * [Laravel 5 Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
@@ -397,6 +399,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Backpack for Laravel](https://backpackforlaravel.com)
 * [Starter Someline](https://starter.someline.com)
 * [Laravel-admin](https://github.com/z-song/laravel-admin)
+* [CrudBooster] (http://crudbooster.com/)
 
 ## Codebases for Reference
 
